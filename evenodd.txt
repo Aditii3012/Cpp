@@ -1,0 +1,9 @@
+// CHEKING IF THE GIVEN NUMBER IS EVEN OR ODD
+#include<stdio.h>
+#include<conio.h>
+
+int main(){
+    int number1;
+    printf("enter a number\n");
+    scanf()
+}
